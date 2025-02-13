@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import {
   generateQuestions,
-  submitAnswer,
   resetQuiz,
 } from "../../library/quizSlice";
 import Wrapper from "../layouts";
@@ -33,7 +32,7 @@ function TablesApp() {
   return (
     <Wrapper>
       <>
-        {!isQuizRunning && currentQuestionIndex==0 ? (
+        {!isQuizRunning && currentQuestionIndex===0 ? (
           <QuGenerate
             numQuestions={numQuestions}
             setNumQuestions={setNumQuestions}

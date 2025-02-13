@@ -11,7 +11,6 @@ const Header = () => {
       <div className="d-flex align-items-center gap-3">
         <button
           className="toggle d-flex align-items-center justify-content-center icon fs-5 hc-nav-trigger hc-nav-1"
-          role="button"
           aria-controls="hc-nav-1"
         >
           <i className="bi bi-list mdi-18px"></i>
