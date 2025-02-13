@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/multiply-mania/static/css/main.75261ecb.css",
+    "main.js": "/multiply-mania/static/js/main.d4caf031.js",
+    "static/js/488.27d690aa.chunk.js": "/multiply-mania/static/js/488.27d690aa.chunk.js",
+    "static/media/anim-bg-1.svg": "/multiply-mania/static/media/anim-bg-1.48542c6bda115c59e63d3f4cfc7c835f.svg",
+    "static/media/winner-bg.svg": "/multiply-mania/static/media/winner-bg.3acdb97237c19d9affefa16f1f3327fc.svg",
+    "index.html": "/multiply-mania/index.html",
+    "main.75261ecb.css.map": "/multiply-mania/static/css/main.75261ecb.css.map",
+    "main.d4caf031.js.map": "/multiply-mania/static/js/main.d4caf031.js.map",
+    "488.27d690aa.chunk.js.map": "/multiply-mania/static/js/488.27d690aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75261ecb.css",
+    "static/js/main.d4caf031.js"
+  ]
+}
