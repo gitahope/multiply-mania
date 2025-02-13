@@ -14,7 +14,7 @@ const Template = () => {
       <div className="sha-page-body vh-100 d-flex align-items-center my-auto overflow-auto p-3">
         <div className="p-3 bg-light">
           <div className="px-4">
-            <img className="img-fluid w-100 rounded-4 bg-shadow" src={ART} />
+            <img className="img-fluid w-100 rounded-4 bg-shadow" src={ART} alt="" />
           </div>
           <div className="content pb-4 pt-5 z-3">
             <div className="col p-0 text-center">
